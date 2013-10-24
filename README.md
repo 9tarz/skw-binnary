@@ -12,6 +12,6 @@ Ruby 2.0.0, Rails 4.0.0, MySQL 5 etc.
 
 ## Special Thank
 
-1.Socialbeam (github.com/raycoding/socialbeam-dev)
-2.Socialbeam development Tutorial (raycoding.net)
+- Socialbeam (github.com/raycoding/socialbeam-dev)
+- Socialbeam development Tutorial (raycoding.net)
 
